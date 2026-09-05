@@ -19,9 +19,9 @@ This Privacy Policy currently applies to the following application(s):
 
 ## 1.1 App and Developer Information
 
-**App Name**: Tap Tap Mechanic
-**Google Play Package Name**: com.dough.ttcm
-**Developer/Publisher**: EAN Studios
+**App Name**: Tap Tap Mechanic  
+**Google Play Package Name**: com.dough.ttcm  
+**Developer/Publisher**: EAN Studios  
 **Google Play Store**: https://play.google.com/store/apps/details?id=com.dough.ttcm
 
 Tap Tap Mechanic is developed and published by EAN Studios.
